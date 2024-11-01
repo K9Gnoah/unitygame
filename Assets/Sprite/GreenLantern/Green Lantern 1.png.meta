@@ -1,0 +1,5623 @@
+fileFormatVersion: 2
+guid: 08644dc3cf98ced4f97266ad95f4fb0e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Lantern 1_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1418
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca8cce38b4b212468983d549ee0c536
+      internalID: -998744850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1362
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2905d7ee770c34890d6b36135ea1b9
+      internalID: 1651530977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1362
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2efb065364d024a880c00358dcd0f3
+      internalID: 1530865069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1362
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a53fb4906c1444c88c7eb4b505a2e8
+      internalID: 718389128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1362
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c83c80aa4991446b3e919a01d60d08
+      internalID: 224958124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1362
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb252254defb474085395725a64e4ce
+      internalID: 739556578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1362
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985e3ff75938e4849ad30f24d723277d
+      internalID: 1147828680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1348
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893fcc27d974a55448f3f7b6406dd15d
+      internalID: -39865819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1294
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadd51fe812dbac4ab0bf26fcfd81251
+      internalID: -1609077270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1294
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07af03ef2fa3bf542be7d2f180c35f33
+      internalID: -514641728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1294
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e0564941af34446b6e9694b63ff75c
+      internalID: -190528740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1294
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cc84a00f12ffa41a81146bd897ba00
+      internalID: -342666163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_12
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1294
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebebb609608a90749aef3646df4174e5
+      internalID: -275576184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1294
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b6b8e0e7347654290959621ac7f92d
+      internalID: 1898153707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_14
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1294
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a835200b899da54cacd6205bcefbc31
+      internalID: 1077359458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_15
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1294
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e98a94a7ffb3764cac86300e1218310
+      internalID: 266079199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_16
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1294
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b1b42d081c4dd4d991a75c5b44b4e5
+      internalID: 1653376647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_17
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1294
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522ce20f5f40b194b9dd637a27261d2a
+      internalID: 1284045665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_18
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1294
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13766dd2a40b9f14dbd642cee9054eb8
+      internalID: -1163982240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_19
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1294
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964a10d493323884bb7b1f0823a5bad0
+      internalID: 667105577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_20
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1294
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce30cba7d9ad074a968da345b818ec9
+      internalID: -1498687452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_21
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1294
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60293f462a327de46a615c5f072dffca
+      internalID: 729524450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_22
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1294
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709a3d62d69c39f4bace9c047d149840
+      internalID: -737695034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_23
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1294
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b1c92e60c83d24cada0c0955dcc584
+      internalID: 1455110743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1280
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f787cf65c9e3224298257650f27cbb1
+      internalID: -1457034776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_25
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1280
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e9481b933af7243b2290bd2e3373c0
+      internalID: 978277659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1213
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e57457620a40bf4392e89cd6fb5ef24
+      internalID: 151079659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1217
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b6d469963c71f468b4f05ad1129814
+      internalID: 464857257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1220
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cac574eb3c03904885f246ae70e5fc6
+      internalID: 1594101517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1222
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22660bfabe13f2c4084616bdc78dd310
+      internalID: 1858266245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_30
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1220
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed55fa0eae23c814da38ba69589a6f3d
+      internalID: 1900271064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1216
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ea9e2b3fb2baf48a5124774f926ee6
+      internalID: -2112974721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_32
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1216
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ec49ce41dde2743be29c6124c7eec1
+      internalID: 327573031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_33
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1213
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b6e50c622875c43b1d5f9139be3a83
+      internalID: -2122923253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_34
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1213
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15861c061cf59f3488b2415b28329640
+      internalID: -2050775722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1213
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f51a2b7a98dbf4ab08db7c130d4e45
+      internalID: -1112206044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_36
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1213
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eae02abd51fb74b8419b8a4c6b7fbd
+      internalID: -596538899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_37
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1213
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22050bc38f6ca86428711b301ca2d516
+      internalID: -209398983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_38
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1213
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a683ec8ff7b39e7418bf2355c1579894
+      internalID: 777859844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_39
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1213
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd136b55d30d5d5429b0534a18d4e677
+      internalID: 750428015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_40
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1213
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f57a38a5dc9d4b4fae07af0648e6909
+      internalID: -1079378951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_41
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1213
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d18ec48ef3d7d4ba65b0f4461d346a
+      internalID: 1887460251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_42
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1213
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b67d62031ae1c4f8dfb624a3040068
+      internalID: 644245990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_43
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1199
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc662f7868e46445b8d2f2062f40d8f
+      internalID: 46692734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_44
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1199
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04387a187f8ed04c8ae90d6699e8ec3
+      internalID: 211148865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_45
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1199
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347c15b4f2f394d4bade8373477b9999
+      internalID: 1922708051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_46
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1199
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3c7caf0d1e2fd4188046d9ac0a158a
+      internalID: 2026844636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1199
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12497eb75b7547a44b93f8925b6567f2
+      internalID: 149260841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1138
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61a9bed89ded7a4cbc8c368eac7e5e0
+      internalID: -1439040346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_49
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1144
+        width: 77
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6c04c6a05595f4c8b6867901f88eb1
+      internalID: -1365072990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_50
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1133
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0298ac7c127f0b14d87d7aedee5cbc50
+      internalID: -1851255442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_51
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1137
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b982259f88c2f6442bc6517185b6bfa5
+      internalID: 1355301597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_53
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1132
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc6ea74e20732344a70726cc2c493c7
+      internalID: -460999986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_54
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1132
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad289cf1f72224a47be168809b410c3a
+      internalID: -2070567137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_55
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1132
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd0acd7f97ec1b4783d38394d401c8a
+      internalID: 1059156398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_56
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1132
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad970aeceb3d9d488e4d0c296fa0fdc
+      internalID: -1875554258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_57
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1135
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9e290fada2e324384cc5c5929def74
+      internalID: 1035610428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_58
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1132
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b3c3466afbfb4409aa59a5250f9e66
+      internalID: -759069852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_59
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1139
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05df83e0e2bdaf2458f397e7f399d915
+      internalID: 1417677048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_60
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1138
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441610cf19792eb42b340da00bbf4872
+      internalID: -272711353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_61
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1132
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e9c8c8b2ea81146a25dd6c8c7083b0
+      internalID: 2011617708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_62
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1143
+        width: 75
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f3423d25ac6bd439f825906f8acb82
+      internalID: 605308924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_63
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1132
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834ee54c6f82c1a46ae4b794b94cae6b
+      internalID: 1559385003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_64
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1141
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c8342208a788e48878490588199d3d
+      internalID: -1814583393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_65
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1110
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113d1e679bc45a448a2089c966eec22c
+      internalID: -413975702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_66
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1110
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c36754d7045174ba89b0fa656b4842
+      internalID: -510300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1040
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b4e347bc131f14e9ca5a3278b72311
+      internalID: -534273126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_69
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1040
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce528a69b2600a4a814e75b23af8970
+      internalID: 2031192790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_70
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1040
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be44ae733d508c46a108d03d03e329d
+      internalID: 1573682468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_71
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1040
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fa9af55195dd94c9cc34db8f5084c2
+      internalID: -1837852416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_75
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1040
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a58e9f120553e4ca47298a45e4abc5
+      internalID: -1527748897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_77
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1040
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14930bfd84e5b0c4884ee7671eab4e19
+      internalID: 1282771540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_78
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1040
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c57e3d426a3fd40931b9466a49ad46
+      internalID: -2094869436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_80
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1040
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13e0268d8cac5441940991e80085783
+      internalID: -1586991548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_81
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1040
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45696e80e19e60439bcc50429371ca0
+      internalID: -1629405695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_82
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1040
+        width: 95
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704030446e15c7147b923b589a057b3d
+      internalID: 696360959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_85
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1040
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f8054ba3d355142a9bc3963586cb5e
+      internalID: 1643098114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_87
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1066
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4670d4d9c247a488b5f64b4e463743
+      internalID: 695931964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_93
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 935
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6780ad7894158534ea08f30804a34f78
+      internalID: -1112532767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_94
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 935
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32df9985833e964c8a0716675e8f3de
+      internalID: -1068610932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_95
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 935
+        width: 34
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d903fb7d776e67b47b013b7c3cd48b8d
+      internalID: 1880474190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_96
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 935
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0ef0d31ac405547af9337e63d80aec
+      internalID: 1528319535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_97
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 935
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297f2465e2b612749b6a805812f22ce5
+      internalID: -989841976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_98
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 935
+        width: 118
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e18756b10340741815cd3c766a78c0
+      internalID: 2009508622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_99
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 935
+        width: 115
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894acf8e8e2fd214fbee453d8c9714d5
+      internalID: 460449707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_100
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 935
+        width: 90
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75eb1f4d5b30484b970509b8399276d
+      internalID: 1684699958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_103
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 928
+        width: 99
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a78c806fc624404f9030d0dc9a2217e
+      internalID: -901923184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_104
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 936
+        width: 93
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdc10ef92c331840b3780ba1f6bee88
+      internalID: -1132520317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_111
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 921
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef33f9776ff31542a2882f438f97301
+      internalID: 84257486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_112
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 921
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ab6f6ccbfce4a49a2549b1a008efb7
+      internalID: -2082650498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_113
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 860
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc5e8fe0fae27e488a8bc221ce4ea68
+      internalID: -917627370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_114
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 860
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a77610760f1d640aa6dad2447bc6f6
+      internalID: 559066756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_116
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 860
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6271a06a36768fa4aa107de9b957955b
+      internalID: 371195964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_118
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 860
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd46eaa9255c20645a402ed7f98cb791
+      internalID: -317358057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_119
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 860
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c443788254a96b3419446cf70beb1421
+      internalID: 288679540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_120
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 860
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976cb145f0993b34b9c8fb66d1f2470b
+      internalID: 1215666296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_121
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 880
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbebe334e2e3af6499b7fd755f2464b0
+      internalID: -1614810047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_122
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 880
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707bb8faf60655841a365584a9def4fb
+      internalID: 1069617371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_123
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 879
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f33e30b883e5364f98a4228b453dbe9
+      internalID: -1601306089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_124
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 876
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e065b8a5de87e794da1904c41860a111
+      internalID: 1530280843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_128
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 879
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56d16a1129925647bf133aff6564a86
+      internalID: -326100554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_129
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 870
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d86a18f5c3d7e438141290f5d60dc5
+      internalID: -1986826989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_133
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 865
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fb1b4d9af939946b784e3f3cd57c00
+      internalID: -1774994180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_135
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 846
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59161de65cbdd2f41a3edc9bd0ebbc3a
+      internalID: 1534515884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_136
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 846
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c7ee319dbedf14b9958b2e32908887
+      internalID: -1393228688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_137
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 846
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaaf409107b16e42b22f227b35aa0c3
+      internalID: -1145388655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_139
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 775
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4519e88cd41f8c458326884d8c99519
+      internalID: -635494452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_140
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 775
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb8d92f5be3a56449c0088852613b89
+      internalID: -184023803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_141
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 775
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655081b15fc58604480315b9abad612e
+      internalID: -930078059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_142
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 775
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3c5af964b95ba45b193dca43d7ffb2
+      internalID: 1638885876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_145
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 775
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea74a630f6ad0a4eaf71758860c36b1
+      internalID: -914427108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_147
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 775
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6e5f090895b834498280f06b809f21
+      internalID: 1955970782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_153
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 775
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70be40e63305ef4289425dbd90ad26a
+      internalID: -1778818154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_154
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 775
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45678430118a0684e8ccb7a509be5265
+      internalID: -1168816701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_155
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 775
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b606c106539c6d54b9c355530c67071d
+      internalID: 932694197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_156
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 775
+        width: 89
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ae9f1bcfe7df84c962947c915af96b
+      internalID: -1961541751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_157
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 773
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65301c76944a29e4993b1657ff41bd36
+      internalID: 1891414389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_158
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 761
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6db15f3e80d3f4db52240403a384f3
+      internalID: 847032017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_159
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 761
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d4f5676614fe14495eddf930663c70
+      internalID: -1091953356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_160
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 761
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce89a735cf639c468762fb2c1322501
+      internalID: 282862632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_161
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 700
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec36245af8a1de47939ad87bd0cf7d1
+      internalID: -2089837797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_162
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 700
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e250ca638c3c8d42969f2c4404080c9
+      internalID: 190980842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_164
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 700
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4ded2d1c492ba4383808881db226d7
+      internalID: -157261349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_166
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 700
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c658671e811274fa379c7f506e89d8
+      internalID: 582984847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_167
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 700
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f626719977744e3448f6193e26b3884a
+      internalID: 473830050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_168
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 700
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422f3d8d5bac06948960dfc87168a09f
+      internalID: -2079980314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_169
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 720
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef68ae2b30c479847a1a134eab301223
+      internalID: -688401036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_170
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 720
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600f72b62242ec441884acde1f06222f
+      internalID: -1935986520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_171
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 719
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9237d3353f2bb4191645a3a9bb4c97
+      internalID: 1686840853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_172
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 716
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a6b0967f6dcb742b68291f2cbe2eab
+      internalID: 179577280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_177
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 719
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2f72b3f3c43ff4ca4709b01cdcc4fc
+      internalID: 1376898658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_178
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 710
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4f0b4ddfa1ccf47ad2111677a1b2dc
+      internalID: -1548090120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_181
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 705
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23a367123d117043952db5c168ef9d6
+      internalID: -970109475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_183
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 686
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886f4b732bdea0b41899e622432c08fa
+      internalID: -1102744509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_184
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 686
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805fdcd895f9d58409777427642228a8
+      internalID: 675418447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_185
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 629
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e100f8cadd9a2424cb478e1c5efe830c
+      internalID: 42469154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_186
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 629
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade065b8b12505e4da1504f774b44de2
+      internalID: 19903807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_187
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 629
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c833e1195ca861c429be14c207dd5fa7
+      internalID: -1287445029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_188
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 629
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09caab43c381c0747badae272f2d8ef6
+      internalID: 1500703805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_189
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 629
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f962169ace572840bfdbc47a49bbb07
+      internalID: 643695743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_190
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 635
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1633de39d2166ad4ebb0b28261f692b7
+      internalID: -1885027600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_195
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 635
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d99887e07568442abb81bacf257dd8
+      internalID: 1906832977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_196
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 634
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d31718020c8751439f4ebc20173b657
+      internalID: 613785551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_197
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 632
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1db70af7c10a2445b528b10c8ef1e57
+      internalID: -337236130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_198
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 632
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdaed566db6ee240ad06c34a4db8d1a
+      internalID: 645169805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_199
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 632
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc739f7be1015047a820f7a39d257be
+      internalID: 1006130073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_200
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 632
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a215ec886eea42a4eade7ea0bb96135e
+      internalID: 637893673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_204
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 632
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5021d051389160d46abf8e87503e5c15
+      internalID: 2091398345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_212
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 615
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c27e11c130931a409cff43e81843b08
+      internalID: 1804366958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_213
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 615
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b519136a1239947b62040a1ee30898
+      internalID: 1126616083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_214
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 615
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3977454864bcc844a7c3f4e831175f8
+      internalID: 1407616968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_215
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 554
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d9a7e175885e44992946885554344c
+      internalID: -2110478252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_216
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 554
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184cbf9e3f07d504db26b3b7e220301a
+      internalID: -996218319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_217
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 554
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158eec0f31cfaa14fb9cdfcb91b946b8
+      internalID: -1265129620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_218
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 554
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87848bd40d62b442ab5b99725685ead
+      internalID: 1635563837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_219
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 554
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468c4da006f49404ca28a7741e76d36f
+      internalID: 2143600457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_220
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 561
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1419c5af9702d4441a62746c04c19a56
+      internalID: -2023418879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_225
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 560
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c2d68c06966544989fdf3307a2e6ee
+      internalID: 98725248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_226
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 559
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0137831d8e59484597dde4685400801
+      internalID: 1095929109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_227
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 557
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74da6cacd3e55424590f2c4463cb0251
+      internalID: 84610441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_228
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 557
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfd115417ab8274c9dd042f341cd6e3
+      internalID: 1739032653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_229
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 557
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b95f138e627baf42afffe84a6b60cc7
+      internalID: 1180822078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_230
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 556
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79275136286c80041b7ae52d6e0d8aa9
+      internalID: 19552690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_234
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 556
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b85739e89ce426498b21d2951b96d16
+      internalID: -932057699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_242
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 540
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe4d9cfb55c40a41b650cf52ecf89ab
+      internalID: 585510174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_243
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 540
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdcb830b73f45e4a81f059b7e284005
+      internalID: 301629455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_244
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 540
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c38fb99afb7614e91ca6bded74de07
+      internalID: 1285475876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_245
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 540
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9803bf0e36d5dc945b5537724977e190
+      internalID: 2122409147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_246
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 433
+        width: 205
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca051d061d31d61468c966b51e259365
+      internalID: -707812062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_247
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 433
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1207a990f318507419924edfdf0a3803
+      internalID: -600806846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_248
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 419
+        width: 55
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e12fb120d61f474dacedc99b9aa7f3f
+      internalID: 1860489547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_249
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 363
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e100258955cbba04fa3b7afd84d617c1
+      internalID: -1096914704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_250
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 363
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5c33d5d9d972a4aa9f0e180d0ab053
+      internalID: -1044516074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_251
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 363
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b82ebf57c63b94f9fa2554a3ecab27
+      internalID: -1918666828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_252
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 363
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682627f493acb9143ba407be32a8e754
+      internalID: -2135354501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_253
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 363
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955ea5417af276547a9ed93486b20da8
+      internalID: 434088465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_254
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 363
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debef7c4a0b94974980db14e35e7e6da
+      internalID: -1768028283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_255
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 384
+        width: 104
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53643dc1c42ea184eb2151ab89bb24d5
+      internalID: -1714163933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_256
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 348
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d49d0e7bc9bd9f43b3986671132920b
+      internalID: -572675304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_257
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 193
+        width: 128
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c640e61a38527a74aba379107e5a1871
+      internalID: 946807634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_258
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 293
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f777242efb9b68e4ab9667612185d872
+      internalID: -1660278724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_259
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 293
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb76344ea0338dd4bb0c509b3757b89a
+      internalID: 309401602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_261
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 296
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed4d4ef067e414408a76acec4fd9146
+      internalID: 2062632671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_262
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 296
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555ea07679fc7f6458e5232369d37d60
+      internalID: 9891737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_263
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 295
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74714450292a5547938fef897edc68a
+      internalID: 231062873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_264
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 295
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9fffe7ca0b4ed4987770a2300ed3fe
+      internalID: -356621446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_265
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 295
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8e99468789d2344ab19234638e2a4e
+      internalID: -92487236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_267
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 295
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04287aa70fd19324992e134eae46df2b
+      internalID: 1332373567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_268
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 301
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7eaf1e42f28d64a9739ef0cefb9c70
+      internalID: -949010646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_269
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 295
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20661c9a53cad0449866cf92c89e219
+      internalID: -1488905558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_270
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 295
+        width: 97
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3b1f2c4b8e57e42bd256ce924c04db
+      internalID: -1124312078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_272
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 295
+        width: 68
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6eee0792bfd274b8f36b73d1526b44
+      internalID: 986452188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_273
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 295
+        width: 114
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6ceac64a8d04542ac0f84c0382740e
+      internalID: 224225980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_275
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 279
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cd0d05fd29eab47ac68fbfda158302
+      internalID: -1271458111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_276
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 279
+        width: 43
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857897ee0d8dd924e8e5501e135c65d3
+      internalID: 1150945151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_277
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 215
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114712457112d544894955498b2835c9
+      internalID: -849270230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_279
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 215
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c27ff0a969c3b840a3425c8c7028a7c
+      internalID: 1169084665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_282
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 216
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798040c5756f16042a36aa22967a7cb3
+      internalID: 590175103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_287
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 215
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e415840c61ffda49ad80d5ae36c1f78
+      internalID: 1427191650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_288
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 215
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5c534b16ee78c4994555770149e4e9
+      internalID: 648276697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_289
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 215
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336f8818208510d40964b71b0c745e1c
+      internalID: -1260532915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_290
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 215
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc1cb87e286e62408e7f25fcc8432d8
+      internalID: -135492243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_291
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 215
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcd9d103ce76c6459a07aae692360bb
+      internalID: 2049289418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_293
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 216
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e804de64c4404cb49a1038f6f95b13d8
+      internalID: -825105984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_294
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 201
+        width: 43
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed6dd5eb970d564ba060d4b789b9cf4
+      internalID: -1019604836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_295
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 137
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85a8dca746312c4fbb331174e392238
+      internalID: 736511695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_296
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 137
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18462d1a004aef34489242c5e2230c12
+      internalID: -935198873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_297
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 137
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343fe2da1ccae7e4680ce993190ca883
+      internalID: -966625831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_298
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 137
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3253a84b8a57a4543a33651a3f88e9be
+      internalID: -687625229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_299
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 137
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165168e4eeff112449eeba7d58af1e87
+      internalID: -1968364526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_300
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 137
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8cc85b2ed049b40a8eb83f3b0f322e
+      internalID: 1414451967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_301
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 140
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e8b8e69f7bc204e82f9b3ea300f3f0
+      internalID: 1747486696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_302
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 140
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5237236e0267f744a80d24613a6e483
+      internalID: -609687480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_303
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 137
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c26e4081a257b84f8654adf9aa53ad8
+      internalID: 1102431699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_308
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 138
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b756e8a131d484b935e874b81b9eb7
+      internalID: 2115693066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_309
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 143
+        width: 225
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22592c458a6ee446874af69f1324007
+      internalID: 17566104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_310
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 138
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234f6147b19d72d4f80a25e5345b3249
+      internalID: 1645073001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_325
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 123
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e480318676ad3499b607c21710dc3b
+      internalID: -1366813241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_326
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 69
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d90374f7185594c9b59e35dfba8b87
+      internalID: 1775763403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_327
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 69
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa52584c320decc419434b3260145da5
+      internalID: 1611379946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_328
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 69
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a4002b849a3de4a91b19aec158695b
+      internalID: -2112410652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_329
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 69
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3f98072d2e39a4da65e6549f9f2cb2
+      internalID: 790702407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_330
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 69
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393c03b8e6d756b419b2fcf1de409a2e
+      internalID: 2014362409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_331
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 69
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7156065388b0b348949390e1590ecaa
+      internalID: 34301710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_332
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 69
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e86b3b5be0da314ca42cf4e2f3c1bf7
+      internalID: 1323392740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_333
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 69
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc2fed10705b8f44b0c33fe5fcb6f84
+      internalID: -231258058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_334
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 69
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6064893b09e40bf4c8b517f3d61762bc
+      internalID: 318993967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_335
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 69
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd578597d40ed924aa8f492d203cf847
+      internalID: 726888126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_336
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 69
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6aea6703cb52b4f8b149ffdebc7cc7
+      internalID: 1713603249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_337
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 69
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872f50eafa692d343acfcd6e7ce25f60
+      internalID: 151480463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_338
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 69
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5d3fff19e8cf64e823b484f98d18e9
+      internalID: -955747667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_339
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 69
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3103ba32228c15c42b52a849aa0f83bd
+      internalID: 1915205165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_340
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 69
+        width: 58
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81adae9d8ef20c4582279109b04401b
+      internalID: -1226417938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_341
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 69
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb57841065525d140b8d89233f68f743
+      internalID: -2005814669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_342
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 69
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2618285a5f3dd44459ac87fceb1d0d89
+      internalID: 1064911456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_343
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 69
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c36be89ada9174bb8805388abceac0
+      internalID: 2085562975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_344
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 69
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68596ddaad9b3e43b2debd126223c5a
+      internalID: 881354630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_345
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 69
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73a4cbe370694041935488003ec15ad
+      internalID: 1346012781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_346
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700fe5cf74f2a294e943f24c2ddf341c
+      internalID: 1646465816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_347
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 10
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2579cf9861faeae45be38652e5c4825d
+      internalID: 353563323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_348
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 10
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61516e49b2f2721438db0e9e0226823d
+      internalID: 1928288554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_349
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 10
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d42edce7a27f94fbc16f75f28d7444
+      internalID: -1334353640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_350
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 10
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37399a7d0695a5048bb29dca2ff25393
+      internalID: 1941725477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_52
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 859
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313a356ab2fadec41985f54be54e1d6e
+      internalID: 572944210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Lantern 1_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 704
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518d46211f2f05548b9ae6e82d074be7
+      internalID: 1869884367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Green Lantern 1_0: -998744850
+      Green Lantern 1_1: 1651530977
+      Green Lantern 1_10: -190528740
+      Green Lantern 1_100: 1684699958
+      Green Lantern 1_101: -106003658
+      Green Lantern 1_102: -796525898
+      Green Lantern 1_103: -901923184
+      Green Lantern 1_104: -1132520317
+      Green Lantern 1_105: -1788765286
+      Green Lantern 1_106: -217642921
+      Green Lantern 1_107: -1084082638
+      Green Lantern 1_108: 2058212833
+      Green Lantern 1_109: 1587459491
+      Green Lantern 1_11: -342666163
+      Green Lantern 1_110: -2116708909
+      Green Lantern 1_111: 84257486
+      Green Lantern 1_112: -2082650498
+      Green Lantern 1_113: -917627370
+      Green Lantern 1_114: 559066756
+      Green Lantern 1_115: -127227356
+      Green Lantern 1_116: 371195964
+      Green Lantern 1_117: 989323094
+      Green Lantern 1_118: -317358057
+      Green Lantern 1_119: 288679540
+      Green Lantern 1_12: -275576184
+      Green Lantern 1_120: 1215666296
+      Green Lantern 1_121: -1614810047
+      Green Lantern 1_122: 1069617371
+      Green Lantern 1_123: -1601306089
+      Green Lantern 1_124: 1530280843
+      Green Lantern 1_125: 1654937038
+      Green Lantern 1_126: 1173205357
+      Green Lantern 1_127: -2002980561
+      Green Lantern 1_128: -326100554
+      Green Lantern 1_129: -1986826989
+      Green Lantern 1_13: 1898153707
+      Green Lantern 1_130: -2116049351
+      Green Lantern 1_131: 246696571
+      Green Lantern 1_132: -326082483
+      Green Lantern 1_133: -1774994180
+      Green Lantern 1_134: -1701932199
+      Green Lantern 1_135: 1534515884
+      Green Lantern 1_136: -1393228688
+      Green Lantern 1_137: -1145388655
+      Green Lantern 1_138: -371477910
+      Green Lantern 1_139: -635494452
+      Green Lantern 1_14: 1077359458
+      Green Lantern 1_140: -184023803
+      Green Lantern 1_141: -930078059
+      Green Lantern 1_142: 1638885876
+      Green Lantern 1_143: -1146885679
+      Green Lantern 1_144: 766361954
+      Green Lantern 1_145: -914427108
+      Green Lantern 1_146: -255202757
+      Green Lantern 1_147: 1955970782
+      Green Lantern 1_148: -1035889148
+      Green Lantern 1_149: 578126749
+      Green Lantern 1_15: 266079199
+      Green Lantern 1_150: 520098720
+      Green Lantern 1_151: -1480498826
+      Green Lantern 1_152: -2076155544
+      Green Lantern 1_153: -1778818154
+      Green Lantern 1_154: -1168816701
+      Green Lantern 1_155: 932694197
+      Green Lantern 1_156: -1961541751
+      Green Lantern 1_157: 1891414389
+      Green Lantern 1_158: 847032017
+      Green Lantern 1_159: -1091953356
+      Green Lantern 1_16: 1653376647
+      Green Lantern 1_160: 282862632
+      Green Lantern 1_161: -2089837797
+      Green Lantern 1_162: 190980842
+      Green Lantern 1_163: 1490861817
+      Green Lantern 1_164: -157261349
+      Green Lantern 1_165: 1070718233
+      Green Lantern 1_166: 582984847
+      Green Lantern 1_167: 473830050
+      Green Lantern 1_168: -2079980314
+      Green Lantern 1_169: -688401036
+      Green Lantern 1_17: 1284045665
+      Green Lantern 1_170: -1935986520
+      Green Lantern 1_171: 1686840853
+      Green Lantern 1_172: 179577280
+      Green Lantern 1_173: 843668918
+      Green Lantern 1_174: -300410434
+      Green Lantern 1_175: -102278514
+      Green Lantern 1_176: -1692796565
+      Green Lantern 1_177: 1376898658
+      Green Lantern 1_178: -1548090120
+      Green Lantern 1_179: 1213575189
+      Green Lantern 1_18: -1163982240
+      Green Lantern 1_180: -192172472
+      Green Lantern 1_181: -970109475
+      Green Lantern 1_182: -1890008416
+      Green Lantern 1_183: -1102744509
+      Green Lantern 1_184: 675418447
+      Green Lantern 1_185: 42469154
+      Green Lantern 1_186: 19903807
+      Green Lantern 1_187: -1287445029
+      Green Lantern 1_188: 1500703805
+      Green Lantern 1_189: 643695743
+      Green Lantern 1_19: 667105577
+      Green Lantern 1_190: -1885027600
+      Green Lantern 1_191: -340553393
+      Green Lantern 1_192: 2039609730
+      Green Lantern 1_193: -1065987240
+      Green Lantern 1_194: 1893280035
+      Green Lantern 1_195: 1906832977
+      Green Lantern 1_196: 613785551
+      Green Lantern 1_197: -337236130
+      Green Lantern 1_198: 645169805
+      Green Lantern 1_199: 1006130073
+      Green Lantern 1_2: 1530865069
+      Green Lantern 1_20: -1498687452
+      Green Lantern 1_200: 637893673
+      Green Lantern 1_201: 1021648979
+      Green Lantern 1_202: -1914535007
+      Green Lantern 1_203: 1734678779
+      Green Lantern 1_204: 2091398345
+      Green Lantern 1_205: 797330348
+      Green Lantern 1_206: -1836724232
+      Green Lantern 1_207: -2007218342
+      Green Lantern 1_208: 1001434757
+      Green Lantern 1_209: -1761311091
+      Green Lantern 1_21: 729524450
+      Green Lantern 1_210: -993063133
+      Green Lantern 1_211: -167689085
+      Green Lantern 1_212: 1804366958
+      Green Lantern 1_213: 1126616083
+      Green Lantern 1_214: 1407616968
+      Green Lantern 1_215: -2110478252
+      Green Lantern 1_216: -996218319
+      Green Lantern 1_217: -1265129620
+      Green Lantern 1_218: 1635563837
+      Green Lantern 1_219: 2143600457
+      Green Lantern 1_22: -737695034
+      Green Lantern 1_220: -2023418879
+      Green Lantern 1_221: 2002661686
+      Green Lantern 1_222: -152386496
+      Green Lantern 1_223: -2084867593
+      Green Lantern 1_224: -1813791605
+      Green Lantern 1_225: 98725248
+      Green Lantern 1_226: 1095929109
+      Green Lantern 1_227: 84610441
+      Green Lantern 1_228: 1739032653
+      Green Lantern 1_229: 1180822078
+      Green Lantern 1_23: 1455110743
+      Green Lantern 1_230: 19552690
+      Green Lantern 1_231: 2007074404
+      Green Lantern 1_232: -715296161
+      Green Lantern 1_233: -1503728469
+      Green Lantern 1_234: -932057699
+      Green Lantern 1_235: -1278044035
+      Green Lantern 1_236: 1738642171
+      Green Lantern 1_237: 1681522710
+      Green Lantern 1_238: -1497882063
+      Green Lantern 1_239: -1141778837
+      Green Lantern 1_24: -1457034776
+      Green Lantern 1_240: -2138342868
+      Green Lantern 1_241: -146995519
+      Green Lantern 1_242: 585510174
+      Green Lantern 1_243: 301629455
+      Green Lantern 1_244: 1285475876
+      Green Lantern 1_245: 2122409147
+      Green Lantern 1_246: -707812062
+      Green Lantern 1_247: -600806846
+      Green Lantern 1_248: 1860489547
+      Green Lantern 1_249: -1096914704
+      Green Lantern 1_25: 978277659
+      Green Lantern 1_250: -1044516074
+      Green Lantern 1_251: -1918666828
+      Green Lantern 1_252: -2135354501
+      Green Lantern 1_253: 434088465
+      Green Lantern 1_254: -1768028283
+      Green Lantern 1_255: -1714163933
+      Green Lantern 1_256: -572675304
+      Green Lantern 1_257: 946807634
+      Green Lantern 1_258: -1660278724
+      Green Lantern 1_259: 309401602
+      Green Lantern 1_26: 151079659
+      Green Lantern 1_260: 179093525
+      Green Lantern 1_261: 2062632671
+      Green Lantern 1_262: 9891737
+      Green Lantern 1_263: 231062873
+      Green Lantern 1_264: -356621446
+      Green Lantern 1_265: -92487236
+      Green Lantern 1_266: -1522324727
+      Green Lantern 1_267: 1332373567
+      Green Lantern 1_268: -949010646
+      Green Lantern 1_269: -1488905558
+      Green Lantern 1_27: 464857257
+      Green Lantern 1_270: -1124312078
+      Green Lantern 1_271: 64701025
+      Green Lantern 1_272: 986452188
+      Green Lantern 1_273: 224225980
+      Green Lantern 1_274: -1732685675
+      Green Lantern 1_275: -1271458111
+      Green Lantern 1_276: 1150945151
+      Green Lantern 1_277: -849270230
+      Green Lantern 1_278: 1139235172
+      Green Lantern 1_279: 1169084665
+      Green Lantern 1_28: 1594101517
+      Green Lantern 1_280: 1761433108
+      Green Lantern 1_281: -1835675246
+      Green Lantern 1_282: 590175103
+      Green Lantern 1_283: -220342736
+      Green Lantern 1_284: 83379195
+      Green Lantern 1_285: 2124665382
+      Green Lantern 1_286: 1769003534
+      Green Lantern 1_287: 1427191650
+      Green Lantern 1_288: 648276697
+      Green Lantern 1_289: -1260532915
+      Green Lantern 1_29: 1858266245
+      Green Lantern 1_290: -135492243
+      Green Lantern 1_291: 2049289418
+      Green Lantern 1_292: -397428681
+      Green Lantern 1_293: -825105984
+      Green Lantern 1_294: -1019604836
+      Green Lantern 1_295: 736511695
+      Green Lantern 1_296: -935198873
+      Green Lantern 1_297: -966625831
+      Green Lantern 1_298: -687625229
+      Green Lantern 1_299: -1968364526
+      Green Lantern 1_3: 718389128
+      Green Lantern 1_30: 1900271064
+      Green Lantern 1_300: 1414451967
+      Green Lantern 1_301: 1747486696
+      Green Lantern 1_302: -609687480
+      Green Lantern 1_303: 1102431699
+      Green Lantern 1_304: 301086275
+      Green Lantern 1_305: 149366794
+      Green Lantern 1_306: -1772667055
+      Green Lantern 1_307: 3522591
+      Green Lantern 1_308: 2115693066
+      Green Lantern 1_309: 17566104
+      Green Lantern 1_31: -2112974721
+      Green Lantern 1_310: 1645073001
+      Green Lantern 1_311: 2007133651
+      Green Lantern 1_312: -1975046321
+      Green Lantern 1_313: 1355966646
+      Green Lantern 1_314: -166971721
+      Green Lantern 1_315: 1442208140
+      Green Lantern 1_316: -2001742633
+      Green Lantern 1_317: -1040795982
+      Green Lantern 1_318: 498701646
+      Green Lantern 1_319: -2128942022
+      Green Lantern 1_32: 327573031
+      Green Lantern 1_320: -940332946
+      Green Lantern 1_321: 653390351
+      Green Lantern 1_322: -1903935561
+      Green Lantern 1_323: -1866937434
+      Green Lantern 1_324: 1716584281
+      Green Lantern 1_325: -1366813241
+      Green Lantern 1_326: 1775763403
+      Green Lantern 1_327: 1611379946
+      Green Lantern 1_328: -2112410652
+      Green Lantern 1_329: 790702407
+      Green Lantern 1_33: -2122923253
+      Green Lantern 1_330: 2014362409
+      Green Lantern 1_331: 34301710
+      Green Lantern 1_332: 1323392740
+      Green Lantern 1_333: -231258058
+      Green Lantern 1_334: 318993967
+      Green Lantern 1_335: 726888126
+      Green Lantern 1_336: 1713603249
+      Green Lantern 1_337: 151480463
+      Green Lantern 1_338: -955747667
+      Green Lantern 1_339: 1915205165
+      Green Lantern 1_34: -2050775722
+      Green Lantern 1_340: -1226417938
+      Green Lantern 1_341: -2005814669
+      Green Lantern 1_342: 1064911456
+      Green Lantern 1_343: 2085562975
+      Green Lantern 1_344: 881354630
+      Green Lantern 1_345: 1346012781
+      Green Lantern 1_346: 1646465816
+      Green Lantern 1_347: 353563323
+      Green Lantern 1_348: 1928288554
+      Green Lantern 1_349: -1334353640
+      Green Lantern 1_35: -1112206044
+      Green Lantern 1_350: 1941725477
+      Green Lantern 1_36: -596538899
+      Green Lantern 1_37: -209398983
+      Green Lantern 1_38: 777859844
+      Green Lantern 1_39: 750428015
+      Green Lantern 1_4: 224958124
+      Green Lantern 1_40: -1079378951
+      Green Lantern 1_41: 1887460251
+      Green Lantern 1_42: 644245990
+      Green Lantern 1_43: 46692734
+      Green Lantern 1_44: 211148865
+      Green Lantern 1_45: 1922708051
+      Green Lantern 1_46: 2026844636
+      Green Lantern 1_47: 149260841
+      Green Lantern 1_48: -1439040346
+      Green Lantern 1_49: -1365072990
+      Green Lantern 1_5: 739556578
+      Green Lantern 1_50: -1851255442
+      Green Lantern 1_51: 1355301597
+      Green Lantern 1_52: 572944210
+      Green Lantern 1_53: -460999986
+      Green Lantern 1_54: -2070567137
+      Green Lantern 1_55: 1059156398
+      Green Lantern 1_56: -1875554258
+      Green Lantern 1_57: 1035610428
+      Green Lantern 1_58: -759069852
+      Green Lantern 1_59: 1417677048
+      Green Lantern 1_6: 1147828680
+      Green Lantern 1_60: -272711353
+      Green Lantern 1_61: 2011617708
+      Green Lantern 1_62: 605308924
+      Green Lantern 1_63: 1559385003
+      Green Lantern 1_64: -1814583393
+      Green Lantern 1_65: -413975702
+      Green Lantern 1_66: -510300498
+      Green Lantern 1_67: 1869884367
+      Green Lantern 1_68: -534273126
+      Green Lantern 1_69: 2031192790
+      Green Lantern 1_7: -39865819
+      Green Lantern 1_70: 1573682468
+      Green Lantern 1_71: -1837852416
+      Green Lantern 1_72: 535549221
+      Green Lantern 1_73: -488437893
+      Green Lantern 1_74: -35207926
+      Green Lantern 1_75: -1527748897
+      Green Lantern 1_76: 481790207
+      Green Lantern 1_77: 1282771540
+      Green Lantern 1_78: -2094869436
+      Green Lantern 1_79: -843417345
+      Green Lantern 1_8: -1609077270
+      Green Lantern 1_80: -1586991548
+      Green Lantern 1_81: -1629405695
+      Green Lantern 1_82: 696360959
+      Green Lantern 1_83: 289950996
+      Green Lantern 1_84: -2123793356
+      Green Lantern 1_85: 1643098114
+      Green Lantern 1_86: 1794865762
+      Green Lantern 1_87: 695931964
+      Green Lantern 1_88: -621192889
+      Green Lantern 1_89: -1054736947
+      Green Lantern 1_9: -514641728
+      Green Lantern 1_90: -49495559
+      Green Lantern 1_91: -1499908680
+      Green Lantern 1_92: -1483818101
+      Green Lantern 1_93: -1112532767
+      Green Lantern 1_94: -1068610932
+      Green Lantern 1_95: 1880474190
+      Green Lantern 1_96: 1528319535
+      Green Lantern 1_97: -989841976
+      Green Lantern 1_98: 2009508622
+      Green Lantern 1_99: 460449707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

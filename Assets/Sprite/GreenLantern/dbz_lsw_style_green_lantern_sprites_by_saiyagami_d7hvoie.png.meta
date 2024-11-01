@@ -1,0 +1,4593 @@
+fileFormatVersion: 2
+guid: 124888844b5005b4b85db71232edb38d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1071
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1027cf1aac604145ae2d0fd4e156de5
+      internalID: 236738763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1071
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37006d774afb9714e8f21ef9573a8729
+      internalID: 1642161008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1071
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70170bcafe99774d9fdedff87a9948e
+      internalID: 1103930815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1071
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0c59cc132a7af47bcf0c5fde33cc50
+      internalID: 372006679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1071
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d86e7e4c6c2a340b89cd6175746cfd
+      internalID: -1287961990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1071
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c3c19a4ae2d9346a236de7a553c636
+      internalID: -1526274129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_6
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1071
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341b1450bbe3da147a4f48de1bbba83e
+      internalID: -1884229954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_7
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1071
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c70c6aa9372ff942b507a98388e6b5e
+      internalID: 1548469024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1071
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351bb629aaed9a84bba3603e0379745f
+      internalID: 177081450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_9
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1059
+        width: 84
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53384ba2a32de24c9757727aa539411
+      internalID: 210448589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1024
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3468437575282294dbf4a2359c89300a
+      internalID: 1895195552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1024
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee6b338a1e65d041aad1941cbd50469
+      internalID: -1243037697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1024
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8f11f18a7d5274b9f35a09df8f23d0
+      internalID: 182939025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1024
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75985b148ab64b64ea1402d930c5b6cc
+      internalID: -1994214602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1027
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c74cda33e0b4745828cd16d0950ef1
+      internalID: 1429514151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1027
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b6fb577417fac45a412c5b86c63892
+      internalID: 864285655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1030
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90430f9f58971a940b6a038f35f2a8b8
+      internalID: 115570771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1026
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43122b2429714734ea73c4e0b0ddd243
+      internalID: -1074303013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_18
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1027
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6cd67f0abe756488b83b110167f4f2
+      internalID: -1497654349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_19
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1027
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1113d87be80292d4a89e2a0320a08ec2
+      internalID: -675811813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_20
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1022
+        width: 109
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd58a3addbed4954aa96ff4ee7a62598
+      internalID: 139579381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 978
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7be43468a4027d41b2a280cbfc6548b
+      internalID: -371648855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 978
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dec5a3be2efeb49a61ded432835cb2
+      internalID: 1912662188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 978
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181e3c1975ba05f449f6174cad84ceb6
+      internalID: -26138732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 978
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6ccdaaa76d65a4f957838839aa9bff
+      internalID: 1970577312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 978
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377c84d0bac8ed443b80cc48bcf6b01e
+      internalID: -1033106376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_26
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 978
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27359cab47c85224687f5763c22221f5
+      internalID: 778504588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_27
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 978
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff65b69e57462fc4aacf73416c113f56
+      internalID: 493307474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_28
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 978
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2394202a37408346b8804cd895f60e2
+      internalID: -2047616806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_29
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 978
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fd604a7f86bb747bbe9422ddf7aaa0
+      internalID: -866158301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_30
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 978
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e47c486da80a284aa4e4d23f044bb42
+      internalID: -1584566234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_31
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 971
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a781f4df67c4a64eb1c45abdb60a9bd
+      internalID: -1219298646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_32
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 969
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d84b3902d28c249a280f84acb366bb
+      internalID: 1683644928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_33
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 971
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e38fba21af7b047ae17a2ef1fad942
+      internalID: -196475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_34
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 967
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf42d5baac4991446990a96d5dde350a
+      internalID: 663724333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_35
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 929
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5b305a53b2fdb49930994f6c89af3b
+      internalID: -663545900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 929
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec90fe1816ea7e4cb24aad72d5716a2
+      internalID: -1951296715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_37
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 929
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a91329113bdf7c4aa51f4fa6e15a410
+      internalID: 466353280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 929
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ce8b84ab1d2c2488f2192dca8e7095
+      internalID: 1966574922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_39
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 929
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7331d78a031ea44aa9ae0ba0869f84a
+      internalID: -90762685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 929
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba296f1978277e14aa3c35c2c8975f85
+      internalID: -1403836618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_41
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 929
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973563be4caa72848a7bb8a159374eba
+      internalID: -569252588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_42
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 929
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143412a9d37d8024297911498805ae17
+      internalID: 1404262066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_43
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 929
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b80515b197f2984d9dea1b887e2400a
+      internalID: 1115535522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_44
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 930
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37f49649ac3b1540aaa7868d346ffd3
+      internalID: -393552400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_45
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 883
+        width: 81
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8318860ce2818144482f45c08b82df99
+      internalID: 1433522442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_46
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 899
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acd9cc1fc572b1468fe5affa0a87568
+      internalID: -1520552294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_47
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 883
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fecf15343a8ce843a91cf34dae1e86e
+      internalID: -1266334842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 883
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a9912980b39e14ebdc52629d469a61
+      internalID: 602131743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_49
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 895
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c805d6e6169a741bec921a1e96ee06
+      internalID: -1011587368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_50
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 895
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547b2c48855ff9a48998cddd01655326
+      internalID: 1924881769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_51
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 859
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a49404899d920047a83d72f506105e5
+      internalID: -2045350729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_52
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 859
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c324e715ff6e1e240a5d5d14c0d8b13d
+      internalID: 314111367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 859
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f279152e14c25e1469a14b13439fa190
+      internalID: 1064286088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_54
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 859
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c80f83aa3805c4c83123f3208540a9
+      internalID: 461452696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_55
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 856
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13cc0fd9df63c644887d7d0c793ef23
+      internalID: -152944216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_56
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 856
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e47a960bb3cc348beade2342930c39
+      internalID: 1422498563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_57
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 859
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bbcbfb7d21b2b47836a1107ae92b28
+      internalID: 1430284197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_58
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 859
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea616f0ae70a1a4dba32b128ebed6b9
+      internalID: -165826253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_59
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 859
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c21815c20bb3a498de84cad8eaba29
+      internalID: 1305166356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 859
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb0b56a085b0f14480439dcd9c83b1c
+      internalID: 284303997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_61
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 859
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27058f27992ed247a3059f26e52e53e
+      internalID: 188468245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_62
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 859
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40d46588117d6c4ba35812bf9168ac0
+      internalID: 1721358047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_63
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 814
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df802ea70fafb38408ede990c24f4552
+      internalID: -923487939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_64
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 830
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf727347663360549a7b8043c171a8a5
+      internalID: -184598624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_65
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 841
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a398b9e6c4a14894d8cdd2fff9ad7c82
+      internalID: -58795472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_66
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 841
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d821dae3c3f045745ba408a3061302da
+      internalID: 2147482420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_67
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 841
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b91ed3f4abad24993e885c2e146f79
+      internalID: 1610872072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_68
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 841
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dc9f406a85fb04db2de5b64fe808ea
+      internalID: -519645607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 828
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d742b4134d927742aeb19b60483bf53
+      internalID: -729844228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_70
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 828
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94ddf2564d6a1748b8f075ee75ddf1f
+      internalID: -75190873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_71
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 814
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a715a7e06604d7a44841b8e95bad0e44
+      internalID: -870567051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_72
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 812
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419a5857e276f804ab4a56df72fa5ca8
+      internalID: -2017642337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_73
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 820
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c509ff0fdd097584aa38ea55bacc88be
+      internalID: -1590225792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_74
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 809
+        width: 73
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a387712e4bdc8d48ae9d463fb5ea14e
+      internalID: 1929516922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_75
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 810
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216c66cc2ba491c469930d1107352add
+      internalID: -1041400730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_76
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 763
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5f9d039cb4ec74eb57790fdcf8e478
+      internalID: -1340621025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_77
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 763
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387ee028bd85aef41b1cfd02cdbb18dc
+      internalID: -1423322875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_78
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 787
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad11defcc6bd8a1438235f08bd3d43d6
+      internalID: -805459974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_79
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 787
+        width: 63
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d20ac2f25d61b4db46c1cf7ce91696
+      internalID: -632387165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_80
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 748
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98db23f2bf470ba46b87bd5ba636adc4
+      internalID: 524724458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_81
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 750
+        width: 110
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80abb6f4c75a83945b3e2dad44a877fc
+      internalID: -1642413767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_82
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 749
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2f5c9c9290d394c8f009fc1a41edd7
+      internalID: 75272743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_83
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 759
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c056ddb3cdb3e44a77f9c52709f26a
+      internalID: -783205697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_84
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 757
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736c052dbc109f249a15ebcc25da93c9
+      internalID: 1379709383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_85
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 755
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac2177e6d542394c806affbc236fb2a
+      internalID: -1616853456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_86
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 713
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d5b919e86a8e942a3f9fa3c930798a
+      internalID: -1164636547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_87
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 713
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f405f2794d307b347a70becf980e6a61
+      internalID: 733258069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_88
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 713
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80e1e064e1026d4798c14b11b1e77bf
+      internalID: 2059882071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_89
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 710
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d91431e089885d49b4722c20e945d86
+      internalID: 1140811188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_90
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 713
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da4151657231074ebe99eab108c7a76
+      internalID: 1065522137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_91
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 713
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5a68d950f3bfd42ade5dcfd3556a9b
+      internalID: -1845148986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_92
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 713
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf9dd6ff2cbb8f4ebd5a040178cca1b
+      internalID: 68316792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_93
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 713
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac9a75db1099ee48add940c655f1e5f
+      internalID: -897889822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_94
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 713
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7050de842130d749bb78b5cbc048604
+      internalID: -1258138832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_95
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 713
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc46e5f8213778a40821fdd9c8eaf0d8
+      internalID: -819896385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_96
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 710
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a443184662a66cd48ac04da126daf085
+      internalID: 474785646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_97
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 713
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddad66f83ad772e4191c714da2119577
+      internalID: 878270285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_98
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 713
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433540442b2bedf43a617621c931e9ce
+      internalID: 881636741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_99
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 713
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db301a2c06ba57244b4ad91f125dc1b3
+      internalID: 850334076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_100
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 713
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5272a5ee113a8ca498e57411f3ed6251
+      internalID: 840726618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_101
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 713
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176a66d930b105741a3865975bca510b
+      internalID: -1637075218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_102
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 713
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3226e8a1b4b43ec4faa7dfbe74d2c0b2
+      internalID: -969452720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_103
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 713
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0900fe74bc7a96e4189c59fe0b6b6871
+      internalID: 854725622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_104
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 711
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea760b6a6d22b0845b9042779efcfb7b
+      internalID: 139020376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_105
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 711
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c723e5e8e4e37f14badedc56ae368eba
+      internalID: 57931671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_106
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 711
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a780f4591e988a54b9d6b023e9ad2650
+      internalID: -483624414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_107
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 711
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e57cb6399c95c468dc872abf05a3e7
+      internalID: 644900424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_108
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 711
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7c7ab808f40f84fa447e2241aa3c5c
+      internalID: -365003984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_109
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 711
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6c18b3afd99ab4494621076157c800
+      internalID: 705289779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_110
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 711
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3d2e51054d6684f8e870b0445ea736
+      internalID: -1890744519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_111
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 711
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539d7281912542d4da4aa129c0238eb6
+      internalID: 1202433261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_112
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 711
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d02b7a21a6fbf469aa0133d3dca3c3
+      internalID: 1845355037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_113
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 711
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ac2f7be5f45cb42b258d3defa3c6cb
+      internalID: 1009317887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_114
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 711
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f22bdfee791f7448202d12b17559f1
+      internalID: 197779593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_115
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 711
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5d9a5a6943ef24db415fa41afe3162
+      internalID: 477505669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_116
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 711
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2007d47a3170324090a938b1d1bd38e
+      internalID: -137797843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_117
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 711
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2bda51214acc346bf9bf23a5f3b6ff
+      internalID: 69695789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_118
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 711
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7267fadd1f8d747875abe35b28f9b0
+      internalID: 620002117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_119
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 711
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0876a6b1d51201e458bfef7eaf080f67
+      internalID: 1680115446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_120
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 708
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30c62d3110745a43b993dff6b917af2
+      internalID: 734934900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_121
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 711
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9da89a4aeaa8d14085748fb4716967b
+      internalID: 140148501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_122
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 711
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4157d16bc48684d940f8fba4a39bc7
+      internalID: -1460832765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_123
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 711
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef70fda44ae75743927099b5b615e08
+      internalID: -1731692605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_124
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 711
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2587035196af8cd4ca6a4e9b90290267
+      internalID: 13090886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_125
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 711
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2861bf695cc9c5a479f78fc7940f89cc
+      internalID: 1828587709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_126
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 691
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b416afdae7a75478cccbb0f49ab7ca
+      internalID: -940227264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_127
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 691
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb94207c5cd14f84db8eee0c46395957
+      internalID: 1789251478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_128
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 691
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98be4a492f7401148b5ab3d0c364c431
+      internalID: -1153382853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_129
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 691
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dadb19bb28c71a46a11af4d6d963e0f
+      internalID: -1384735662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_130
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 691
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859cbaf7f928bcf4d90397f7d0fcd3f7
+      internalID: 734976355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_131
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 691
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bb0544d6ead1b4f81808041019ca47
+      internalID: -1360918999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_132
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 691
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ca461ed60771b4894b18443c8cf8ab
+      internalID: 1231254022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_133
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 691
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aade30987bf29449089802131e8ad9
+      internalID: -844014776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_134
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 688
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a04cc23adf5a464599a7dd50459d29f
+      internalID: 2017729713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_135
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 691
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2046857ac748c304eabad2a15abcc52c
+      internalID: 605955877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_136
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 691
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec202fb7ac378ed459251bfe02dc4eff
+      internalID: 458497253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_137
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 691
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67340c2727d6344e8e3a83741cbf766
+      internalID: 602896506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_138
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 691
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039d822058915f8458b2f3ce033da148
+      internalID: 1356639956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_139
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 691
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab82ac09f3830444a56c869f1a5972e
+      internalID: 2101194238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_140
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 691
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00b9b952ae227b40b266776051b18cd
+      internalID: 485137013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_141
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 688
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbd61b38530e9c42bb3f52be3d7d599
+      internalID: -1022100931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_142
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 691
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7833073e00e92ca429be26daf893cc7e
+      internalID: -237796570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_143
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 691
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9fe4f9b1466e944a4e088af0100bf4
+      internalID: -721511173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_144
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 688
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5bc8cfbd5d98d4aac9d422322a0062
+      internalID: -536823410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_145
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 691
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fde9d644ba66434e997413895587b85
+      internalID: 1973235439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_146
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 688
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b150ffd8a374c984784fb16a74c4b22d
+      internalID: 1904358697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_147
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 691
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e958e684ab5b2374fa4526f30b83e9bd
+      internalID: -1243511561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_148
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 691
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cd39092625de346956cc999a835e30
+      internalID: 494029211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_149
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 689
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aefa77dfc2a527499129ed021c289a4
+      internalID: -1956445167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_150
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 689
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48b170463664e34e943a60fa4fa7e28
+      internalID: -872897018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_151
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 689
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef4d84a4aab6634885b5e2bb4a5b3a2
+      internalID: 885865427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_152
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 689
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54f27066ffd950419561a28e9bb5a56
+      internalID: 1365893087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_153
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 689
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4739121e2c724bc4ca895fec82106d47
+      internalID: 1617110130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_154
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 686
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdaf0eef00d16649a69ca8148a129f6
+      internalID: -1528001826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_155
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 689
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b8b1d7f203f8941b705749b49bc22f
+      internalID: 1530931822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_156
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 689
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357a5b26a8a20ee4a866cd722202c968
+      internalID: -1620003243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_157
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 689
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca81b1af63df2844a314d1c8d52232c
+      internalID: -840820348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_158
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 689
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c461c8390ce8a834a88b65525f614b09
+      internalID: 712656475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_159
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 686
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23d9e5dc8ff8144ab788f7d860a947f
+      internalID: 232348896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_160
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 689
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e675f503b7fc84449127ab77c814f1c
+      internalID: 1914081419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_161
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 689
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec7a0636c5a2e242a884883ea2d0c7a
+      internalID: -319878903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_162
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 689
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b889d8dced7c7da4d869ed818a29bb1c
+      internalID: 362954104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_163
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 689
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a8b13d24ec1b84197506b2f10510ba
+      internalID: -2091684047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_164
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 689
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a6f8e94481945469ddec63a1b1e5a6
+      internalID: 1704723059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_165
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 689
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6758b5a8e3df1347a90bf249225024e
+      internalID: 906022497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_166
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 689
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dc7c3a9e679ff4ba462b78ec42c80a
+      internalID: -1322862482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_167
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 689
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dfe15cb42602d48914f8ad08c3b4d0
+      internalID: -640392212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_168
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 689
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fecdb26252155a408dd8d2daef3ab85
+      internalID: 2003374028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_169
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 689
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7164db29aeac346458cefc6b61f4a548
+      internalID: 1308704190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_170
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 689
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b336e3116a4135b4ab971e21812ebb85
+      internalID: 1019268779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_171
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 689
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a152fce4467814785bdb6865308dfc
+      internalID: 1441199514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_172
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 689
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159e1f0f612b6a042b59332e0ac530f6
+      internalID: -199211975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_173
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 689
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37d2994edc580d45b4fcc494577a86e
+      internalID: 71101314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_174
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 689
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb27810aa4485548ae273d996a5ec93
+      internalID: -932640052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_175
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 689
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9304b56f5f83ca4eb190420cb2234ec
+      internalID: -5952340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_176
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 686
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076b90dc297a7cb44b77925e70a1b045
+      internalID: 1885457073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_177
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 689
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2738cc968ca4edd4ba53d21b0e56e205
+      internalID: 1569530525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_178
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 689
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e226424a5b43f444bad2ff6558f2095b
+      internalID: -651036359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_179
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 609
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8715f6f16b6f73a49a7010c5cbc41426
+      internalID: -567570097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_180
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 609
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f62d36dbf98eca478ba84ddddaadf41
+      internalID: 2058538607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_181
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 620
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387eba9407938e64f9429c1d9a54419c
+      internalID: 799992141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_182
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 608
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d072c8b22b3a3428ffbfb2a09555a7
+      internalID: -408391494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_183
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 458
+        width: 245
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0c25a9be763254e86914caae714f80
+      internalID: -1044506857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_184
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 450
+        width: 245
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7e566edb7e45e4d8284c1f4625d6a2
+      internalID: -893483204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_186
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 304
+        width: 214
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70b3a03e70479a4a928146b98da9ca8
+      internalID: -761652766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_188
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 313
+        width: 217
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e86f26deb565a741a21682c6ea7553a
+      internalID: -1088031551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_193
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 171
+        width: 199
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f08c6e722e6550478af898aa20dc711
+      internalID: 2081578975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_195
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 171
+        width: 220
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce46273213714084497c1334d0ee9b87
+      internalID: 1819263956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_201
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 12
+        width: 223
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4092ed44e530e134d826c25199bf66c8
+      internalID: -1048943814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_185
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 292
+        width: 31
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6867ba35f5144b4458176812e90dc0f8
+      internalID: 846091928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_187
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 292
+        width: 20
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0947586e56c07a24aa5f805402be4422
+      internalID: -1308164380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_189
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 189
+        width: 18
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec726cf14df659e478431b27d291a1d4
+      internalID: -1765515171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_190
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 148
+        width: 28
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa85662fbf7d7c642af13691a13c7c29
+      internalID: -1774008789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_191
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 224
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea02f56a2c081a489790594b242b9d4
+      internalID: -1137903939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_192
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 240
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b09153d9e0ec149a0b0737279995a1
+      internalID: -1189859995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_194
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 208
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d083c9740c5bc46b329705cf3339a6
+      internalID: 538811475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_196
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 133
+        width: 17
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a26ab1d1070f9478945085f81a6294
+      internalID: -455250378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_197
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 181
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52f22c6f628adf419ed75c801e8feb0
+      internalID: 219574418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_198
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 147
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851f287e4e07e8542bcbc62c59c0e084
+      internalID: -745550700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_199
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 151
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d99278efeef0b444bea2ac7dc9399dd
+      internalID: 214942497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_200
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 87
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6d28c877ed15845b6cbf5250213371
+      internalID: -1233471851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_202
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea65c1eda5306d4a91cffa44cac1f31
+      internalID: -1848194773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_0: 236738763
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_1: 1642161008
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_10: 1895195552
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_100: 840726618
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_101: -1637075218
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_102: -969452720
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_103: 854725622
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_104: 139020376
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_105: 57931671
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_106: -483624414
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_107: 644900424
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_108: -365003984
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_109: 705289779
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_11: -1243037697
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_110: -1890744519
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_111: 1202433261
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_112: 1845355037
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_113: 1009317887
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_114: 197779593
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_115: 477505669
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_116: -137797843
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_117: 69695789
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_118: 620002117
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_119: 1680115446
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_12: 182939025
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_120: 734934900
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_121: 140148501
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_122: -1460832765
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_123: -1731692605
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_124: 13090886
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_125: 1828587709
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_126: -940227264
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_127: 1789251478
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_128: -1153382853
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_129: -1384735662
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_13: -1994214602
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_130: 734976355
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_131: -1360918999
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_132: 1231254022
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_133: -844014776
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_134: 2017729713
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_135: 605955877
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_136: 458497253
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_137: 602896506
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_138: 1356639956
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_139: 2101194238
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_14: 1429514151
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_140: 485137013
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_141: -1022100931
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_142: -237796570
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_143: -721511173
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_144: -536823410
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_145: 1973235439
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_146: 1904358697
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_147: -1243511561
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_148: 494029211
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_149: -1956445167
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_15: 864285655
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_150: -872897018
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_151: 885865427
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_152: 1365893087
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_153: 1617110130
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_154: -1528001826
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_155: 1530931822
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_156: -1620003243
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_157: -840820348
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_158: 712656475
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_159: 232348896
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_16: 115570771
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_160: 1914081419
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_161: -319878903
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_162: 362954104
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_163: -2091684047
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_164: 1704723059
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_165: 906022497
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_166: -1322862482
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_167: -640392212
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_168: 2003374028
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_169: 1308704190
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_17: -1074303013
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_170: 1019268779
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_171: 1441199514
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_172: -199211975
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_173: 71101314
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_174: -932640052
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_175: -5952340
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_176: 1885457073
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_177: 1569530525
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_178: -651036359
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_179: -567570097
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_18: -1497654349
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_180: 2058538607
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_181: 799992141
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_182: -408391494
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_183: -1044506857
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_184: -893483204
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_185: 846091928
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_186: -761652766
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_187: -1308164380
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_188: -1088031551
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_189: -1765515171
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_19: -675811813
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_190: -1774008789
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_191: -1137903939
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_192: -1189859995
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_193: 2081578975
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_194: 538811475
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_195: 1819263956
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_196: -455250378
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_197: 219574418
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_198: -745550700
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_199: 214942497
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_2: 1103930815
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_20: 139579381
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_200: -1233471851
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_201: -1048943814
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_202: -1848194773
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_21: -371648855
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_22: 1912662188
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_23: -26138732
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_24: 1970577312
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_25: -1033106376
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_26: 778504588
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_27: 493307474
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_28: -2047616806
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_29: -866158301
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_3: 372006679
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_30: -1584566234
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_31: -1219298646
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_32: 1683644928
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_33: -196475
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_34: 663724333
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_35: -663545900
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_36: -1951296715
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_37: 466353280
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_38: 1966574922
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_39: -90762685
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_4: -1287961990
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_40: -1403836618
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_41: -569252588
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_42: 1404262066
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_43: 1115535522
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_44: -393552400
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_45: 1433522442
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_46: -1520552294
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_47: -1266334842
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_48: 602131743
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_49: -1011587368
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_5: -1526274129
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_50: 1924881769
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_51: -2045350729
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_52: 314111367
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_53: 1064286088
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_54: 461452696
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_55: -152944216
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_56: 1422498563
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_57: 1430284197
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_58: -165826253
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_59: 1305166356
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_6: -1884229954
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_60: 284303997
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_61: 188468245
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_62: 1721358047
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_63: -923487939
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_64: -184598624
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_65: -58795472
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_66: 2147482420
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_67: 1610872072
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_68: -519645607
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_69: -729844228
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_7: 1548469024
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_70: -75190873
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_71: -870567051
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_72: -2017642337
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_73: -1590225792
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_74: 1929516922
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_75: -1041400730
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_76: -1340621025
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_77: -1423322875
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_78: -805459974
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_79: -632387165
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_8: 177081450
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_80: 524724458
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_81: -1642413767
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_82: 75272743
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_83: -783205697
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_84: 1379709383
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_85: -1616853456
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_86: -1164636547
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_87: 733258069
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_88: 2059882071
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_89: 1140811188
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_9: 210448589
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_90: 1065522137
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_91: -1845148986
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_92: 68316792
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_93: -897889822
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_94: -1258138832
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_95: -819896385
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_96: 474785646
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_97: 878270285
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_98: 881636741
+      dbz_lsw_style_green_lantern_sprites_by_saiyagami_d7hvoie_99: 850334076
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
